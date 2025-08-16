@@ -9,3 +9,5 @@ React app that transforms study notes into summaries and quiz questions using AI
 4. Deploy!
 
 ## Local Development
+
+Personal Prod without API key available here - https://react-6qzm.vercel.app
